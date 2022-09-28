@@ -9,7 +9,7 @@
 
 
 ## Description
-This is a Content Management System that allows non-developers to easily manage a company's database.  Using this application allows you to view and add employees, create new and edit existing Roles and Departments.
+This is a back-end e-commerce 
 
 ## Use
   npm start in node
